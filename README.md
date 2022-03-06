@@ -10,4 +10,5 @@ Saya Hanifah Al Humaira mengerjakan tugas LATIHAN4DPBO2022 dalam mata kuliah Des
 
 # Desain
 ![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/94789593/156915903-c9689b1e-cbe6-4ce1-94dc-11be35a657d2.png)
-terdapat 6 class Person, Job, Driver, Vehicle, Ship, Airplane. Class Person (chlid) dan Job((chlid) adalah parent dari class Driver dan Class Vehicle((chlid) merupakan parent dari class Ship dan Airplane
+
+Terdapat 6 class Person, Job, Driver, Vehicle, Ship, Airplane. Class Person (chlid) dan Job((chlid) adalah parent dari class Driver dan Class Vehicle((chlid) merupakan parent dari class Ship dan Airplane
